@@ -1,0 +1,7 @@
+C:\Users\hegedusm\gitwork\Oraimunka11B\MinMax\bin\Debug\MinMax.exe.config
+C:\Users\hegedusm\gitwork\Oraimunka11B\MinMax\bin\Debug\MinMax.exe
+C:\Users\hegedusm\gitwork\Oraimunka11B\MinMax\bin\Debug\MinMax.pdb
+C:\Users\hegedusm\gitwork\Oraimunka11B\MinMax\obj\Debug\MinMax.csproj.AssemblyReference.cache
+C:\Users\hegedusm\gitwork\Oraimunka11B\MinMax\obj\Debug\MinMax.csproj.CoreCompileInputs.cache
+C:\Users\hegedusm\gitwork\Oraimunka11B\MinMax\obj\Debug\MinMax.exe
+C:\Users\hegedusm\gitwork\Oraimunka11B\MinMax\obj\Debug\MinMax.pdb
